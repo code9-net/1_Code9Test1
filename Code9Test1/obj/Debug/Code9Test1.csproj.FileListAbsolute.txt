@@ -1,0 +1,6 @@
+D:\work\tst\Code9Test1\Code9Test1\bin\Debug\Code9Test1.exe.config
+D:\work\tst\Code9Test1\Code9Test1\bin\Debug\Code9Test1.exe
+D:\work\tst\Code9Test1\Code9Test1\bin\Debug\Code9Test1.pdb
+D:\work\tst\Code9Test1\Code9Test1\obj\Debug\Code9Test1.csprojResolveAssemblyReference.cache
+D:\work\tst\Code9Test1\Code9Test1\obj\Debug\Code9Test1.exe
+D:\work\tst\Code9Test1\Code9Test1\obj\Debug\Code9Test1.pdb
